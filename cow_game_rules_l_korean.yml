@@ -1,5 +1,5 @@
 ﻿l_korean:
-rule_cow_regular_holding_conversion:0 "COW2: 봉토 전환"
+ rule_cow_regular_holding_conversion:0 "COW2: 봉토 전환"
  setting_cow_all_holding_conversion_prohibited:0 "금지"
  setting_cow_all_holding_conversion_prohibited_desc:0 "존재하는 봉토를 다른 종류의 봉토로 전환할 수 없음."
  setting_cow_only_legacy_holding_conversion:0 "유산"

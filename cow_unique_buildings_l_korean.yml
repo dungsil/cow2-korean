@@ -175,19 +175,19 @@
  building_cow_harbor_byzantion_02:1 "Limen ton Neorion II"
  building_cow_harbor_byzantion_02_desc:1 "The Neorion Harbor is a harbor in the city of Constantinople, active from the foundation of the city in the 4th century. It was the first port to be built in Constantinople after its re-foundation by Constantine the Great, and the second in the area after the Prosphorion, which was the port of ancient Byzantium."
 
+ building_type_cow_harbor_athens_01:0 "Great Harbor"
+ building_type_cow_harbor_athens_01_desc:1 "Expanding the ancient Port of Piraeus with storehouses will dominate trade in the area, thus bringing revenues. It can also increase our maritime capabilities significantly."
+ building_cow_harbor_athens_01:1 "Limen tou Peiraia I"
+ building_cow_harbor_athens_01_desc:1 "Expanding the ancient Port of Piraeus with storehouses will dominate trade in the area, thus bringing revenues. It can also increase our maritime capabilities significantly.\n\nStill, some expansion could be warranted to ensure that the harbor shall remain one of the most important trade port in the region."
+ building_cow_harbor_athens_02:1 "Limen tou Peiraia II"
+ building_cow_harbor_athens_02_desc:1 "Expanding the ancient Port of Piraeus with storehouses will dominate trade in the area, thus bringing revenues. It can also increase our maritime capabilities significantly."
+
  building_type_cow_great_walls_01:0 "대성벽"
  building_type_cow_great_walls_01_desc:1 "#F 난공불락의 성벽으로, 주요 정착지를 둘러싸고 있습니다."
  building_cow_great_walls_01:1 "대성벽"
  building_cow_great_walls_01_desc:1 "#F 난공불락의 성벽으로, 주요 정착지를 둘러싸고 있습니다."
  building_cow_great_walls_02:1 "대성벽 II"
  building_cow_great_walls_02_desc:1 "#F 난공불락의 성벽으로, 주요 정착지를 둘러싸고 있습니다."
-
- building_type_cow_great_walls_01:0 "대성벽"
- building_type_cow_great_walls_01_desc:1 "A set of near impregnable defensive walls, surrounding the main settlement."
- building_cow_great_walls_01:1 "Great Walls I"
- building_cow_great_walls_01_desc:1 "A set of near impregnable defensive walls, surrounding the main settlement.\n\nStill, some expansion could be warranted to increase the walls defensive capabilities even further."
- building_cow_great_walls_02:1 "Great Walls II"
- building_cow_great_walls_02_desc:1 "A set of near impregnable defensive walls, surrounding the main settlement."
  
  building_type_cow_great_walls_athens_01:0 "대성벽"
  building_type_cow_great_walls_athens_01_desc:1 "The Long Walls of Athens were once a vital set of walls that connects Athens to its ports at Piraeus and Phaleron. The walls were destroyed by the Roman general Sulla after his Siege of Athens and Piraeus in 87-86 BC. With the Long Walls rebuilt, once again has Athens secured itself crucial access to the sea."
